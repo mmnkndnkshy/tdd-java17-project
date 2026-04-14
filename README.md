@@ -8,7 +8,6 @@ The available books are:
 4.	Test Driven Development by Example (Kent Beck, 2003)
 5.	Working Effectively with Legacy Code (Michael C. Feathers, 2004)
    
-Rules
 The rules are described below:
 1.	One copy of the five books costs 50 EUR.
 2.	If, however, you buy two different books from the series, you get a 5% discount on those two books.
