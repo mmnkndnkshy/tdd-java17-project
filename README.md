@@ -7,6 +7,7 @@ The available books are:
 3.	Clean Architecture (Robert Martin, 2017)
 4.	Test Driven Development by Example (Kent Beck, 2003)
 5.	Working Effectively with Legacy Code (Michael C. Feathers, 2004)
+   
 Rules
 The rules are described below:
 1.	One copy of the five books costs 50 EUR.
@@ -15,13 +16,16 @@ The rules are described below:
 4.	With 4 different books, you get a 20% discount.
 5.	If you go for the whole hog, and buy all 5, you get a huge 25% discount.
 6.	Note that if you buy, say, 4 books, of which 3 are different titles, you get a 10% discount on the 3 that form part of a set, but the 4th book still costs 50 EUR.
+   
 Developers seeking to deliver quality products are queueing up with shopping baskets overflowing with these books. Your mission is to write a piece of code to calculate the price of any conceivable shopping basket.
 For example, how much does this basket of books cost?
+
 1.	2 copies of the “Clean Code” book
 2.	2 copies of the “Clean Coder” book
 3.	2 copies of the “Clean Architecture” book
 4.	1 copy of the “Test Driven Development by Example” book
 5.	1 copy of the “Working effectively with Legacy Code” book
+   
 Answer:
 (4 * 50 EUR) - 20% [first book, second book, third book, fourth book]
 (4 * 50 EUR) - 20% [first book, second book, third book, fifth book]
